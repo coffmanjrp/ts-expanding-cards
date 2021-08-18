@@ -92,7 +92,8 @@ body {
 
 @media (max-width: 480px) {
   .container {
-    width: 100vh;
+    margin: 0;
+    width: 100vw;
   }
   .panel:nth-of-type(4), .panel:nth-of-type(5) {
     display: none;
